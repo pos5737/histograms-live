@@ -1,0 +1,28 @@
+Preliminaries
+================
+
+If you want to follow along, you need to do one of the following:
+
+## Option 1 (More Practice)
+
+1.  Start a new RStudio Project. (*File* \> *New Project* \> *New
+    Directory* \> *New Project*)
+      - Name the directory whatever.
+      - Create the directory wherever.
+      - Create a git repository.
+      - Open in a new session.
+2.  Open GitHub Desktop, add local repository, and publish the repo to
+    GitHub. (Don’t publish it to pos5737 or I’ll have to go through and
+    delete them all. Publish it to your personal repos.)
+3.  Create a `data/` subdirectory in the project directory and add the
+    **nominate** data sets from our [data
+    page](https://pos5737.github.io/data.html).
+
+## Option 2 (Quicker)
+
+1.  Find the repo histograms-live on pos5737’s GitHub Organization.
+    Click the green *Clone or download* button and copy the `.git` url
+    `https://github.com/pos5737/histograms-live.git`.
+2.  Start a new RStudio Project by cloning this repo by clicking *File*
+    \> *New Project* \> ***Version Control*** \> *Git*). Copy the `.git`
+    url into the *Repository URL* box. Click *Create Project*.
