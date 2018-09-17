@@ -26,3 +26,7 @@ If you want to follow along, you need to do one of the following:
 2.  Start a new RStudio Project by cloning this repo by clicking *File*
     \> *New Project* \> ***Version Control*** \> *Git*). Copy the `.git`
     url into the *Repository URL* box. Click *Create Project*.
+
+## New Packages
+
+ggthemes, ggridges
