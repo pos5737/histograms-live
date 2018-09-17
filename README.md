@@ -24,7 +24,7 @@ If you want to follow along, you need to do one of the following:
     Click the green *Clone or download* button and copy the `.git` url
     `https://github.com/pos5737/histograms-live.git`.
 2.  Start a new RStudio Project by cloning this repo by clicking *File*
-    \> *New Project* \> ***Version Control*** \> *Git*). Copy the `.git`
+    \> *New Project* \> ***Version Control*** \> *Git*. Copy the `.git`
     url into the *Repository URL* box. Click *Create Project*.
 
 ## New Packages
