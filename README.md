@@ -30,3 +30,9 @@ If you want to follow along, you need to do one of the following:
 ## New Packages
 
 ggthemes, ggridges
+
+## Goal
+
+Create this:
+
+![](histogram.png)
